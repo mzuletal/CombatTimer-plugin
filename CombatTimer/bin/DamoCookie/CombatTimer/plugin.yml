@@ -1,7 +1,0 @@
-main: DamoCookie.CombatTimer.CombatTimer
-version: 1.0.0
-name: CombatTimer
-
-commands:
-  combattimer:
-    description: Base command of this plugin
